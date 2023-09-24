@@ -110,7 +110,7 @@ body {
     height: 66%; } }
 
 .loading-cover {
-  background: #ffdf00;
+  background: black;
   height: 100vh;
   position: absolute;
   top: 0;
@@ -143,11 +143,10 @@ body {
   margin-top: 25vh; }
 
 .game-start {
-  background-color: #fcc73f;
-  border: 5px solid #231f20;
+  background-color: transparent;
+  border: 5px solid #2121ff;
   border-radius: 10px;
-  box-shadow: 5px 5px #ee2a29;
-  color: #231f20;
+  color: white;
   cursor: pointer;
   font-size: 48px;
   outline: none;
